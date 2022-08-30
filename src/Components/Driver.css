@@ -1,0 +1,38 @@
+.driver-page {
+  display: flex;
+}
+.driver {
+  height: 400px;
+  width: 900px;
+  height: 500px;
+  border: solid 1px lightgrey;
+  margin-left: 20px;
+}
+.driver-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 150px;
+  width: 900px;
+}
+.driver-title > label {
+  font-size: 30px;
+  font-weight: 700;
+}
+.driver-title > button {
+  width: 700px;
+}
+.dirver-info {
+  margin-top: 20px;
+  display: flex;
+  width: auto;
+}
+.group {
+  width: 200px;
+  background: lightblue;
+  border: solid 1px lightgray;
+}
+.Info{
+  display: flex;
+  flex-direction: row;
+}

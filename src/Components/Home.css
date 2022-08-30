@@ -1,0 +1,19 @@
+.Home{
+    width: 250px;
+    height: 650px;
+    background: grey;
+}
+.title{
+    line-height: 50px;
+    text-align: center;
+    border-bottom: solid 1px white;
+    color:  white;
+    font-size: 18px;
+}
+.link-title{
+    font-weight: 600;
+    color: rgb(181, 179, 179);
+}
+ul{
+    list-style: none;
+}

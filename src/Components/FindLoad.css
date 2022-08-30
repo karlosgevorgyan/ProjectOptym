@@ -1,0 +1,27 @@
+.FindLoad-page{
+    display: flex;
+}
+.FindLoad{
+    height: 650px;
+    margin-left: 40px;
+}
+.FindLoad-title{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 150px;
+    margin-left: 40px;
+    border-bottom: solid 1px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.FindLoad-table{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: solid 1px;
+}

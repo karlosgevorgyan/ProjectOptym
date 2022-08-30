@@ -1,0 +1,15 @@
+.Profile{
+    display: flex;
+}
+.prof-data{
+    width: 600px;
+    height: 650px;
+    margin-left: 40px;
+}
+.info-2,button{
+width: 200px;
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
